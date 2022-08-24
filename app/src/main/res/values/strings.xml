@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">User SP</string>
+    <string name="description_user_photo">Foto del usuario</string>
+    <string name="sp_fist_time">fist_time</string>
+    <string name="dialog_title">Usuaro Registrado</string>
+    <string name="dialog_confirm">Registrar</string>
+    <string name="helper_usarname">Obligatorio</string>
+    <string name="hint_username">Nombre del usuario</string>
+    <string name="sp_username">username</string>
+    <string name="dialog_invitado">Invitado</string>
+</resources>
